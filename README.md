@@ -1,39 +1,27 @@
-Customer Churn Prediction using TensorFlow & Keras
+# Credit Risk Default Prediction 💳
 
-Tools & Technologies: Python, TensorFlow (Keras), Pandas, Scikit-learn, Matplotlib, Seaborn
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F7931E?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white)
 
-Project Overview
+---
 
-This project builds a binary classification model to predict customer churn from telecom data. It demonstrates a complete end-to-end machine learning pipeline, including data cleaning, feature engineering, model training, and evaluation using TensorFlow’s Sequential API.
+## Project Overview
+Developed a **predictive credit scoring model** to estimate the likelihood of **loan defaults** and support **portfolio-level risk decisions**.  
+Demonstrates a **complete machine learning pipeline**: data preprocessing, EDA, model building, evaluation, and risk analysis.
 
-Objective
+---
 
-Predict which customers are likely to churn, helping businesses implement proactive retention strategies and improve decision-making.
+## Objective
+Predict loan defaults to enable **risk segmentation**, support **decision-making**, and classify customers into **Low, Medium, and High Risk** categories.
 
-Approach
+---
 
-Data Preprocessing: Cleaned dataset, handled missing values, encoded categorical variables, scaled numerical features.
+## Tools & Technologies
+- **Python** – Data preprocessing & modeling  
+- **Scikit-learn** – Machine Learning algorithms (Logistic Regression, Random Forest, SVM)  
+- **Pandas** – Data cleaning & analysis  
+- **Matplotlib & Seaborn** – Data visualization & EDA  
 
-Feature Engineering: Created and transformed features to improve model performance.
-
-Model Building: Developed a Sequential Neural Network using TensorFlow Keras.
-
-Training & Evaluation: Compiled with binary_crossentropy loss and accuracy metric, trained the model, and visualized training history.
-
-Results
-
-Accurate churn prediction with strong generalization to unseen data.
-
-Identified key factors influencing customer churn.
-
-Demonstrates skills in deep learning, data preprocessing, and predictive modeling.
-
-Skills Demonstrated
-
-Python, Pandas, Scikit-learn, TensorFlow (Keras)
-
-Data Cleaning & Feature Engineering
-
-Neural Network Modeling & Evaluation
-
-Predictive Analytics & Business Insights
